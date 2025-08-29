@@ -186,6 +186,9 @@ This system implements a role-based cashless payment solution with three main co
 - Integration with university student information systems
 - Offline support for cashier operations
 
+## 🎥 Live Demo  
+👉 [Click here to view the project demo](https://drive.google.com/file/d/1fbQzrkAD1sHZ_FzRFrexSGsQyL618GKL/view)  
+
 ---
 
 *This system demonstrates production-ready architecture with proper separation of concerns, comprehensive error handling, and user-centric design.*
