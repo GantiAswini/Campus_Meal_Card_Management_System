@@ -163,10 +163,6 @@ This system implements a role-based cashless payment solution with three main co
 
 ### Bonus Features
 - ✅ Meal menu with categories and pricing
-- ✅ Weekly/monthly statistics and reports
-- ✅ Student spending analytics
-- ✅ Export functionality for reports
-- ✅ Responsive mobile-first student interface
 
 ## 🎯 Assumptions Made
 
@@ -185,7 +181,6 @@ This system implements a role-based cashless payment solution with three main co
 
 ## 🔄 Future Enhancements
 
-- QR code integration for contactless payments
 - Real-time notifications for balance alerts
 - Advanced analytics and predictive insights
 - Integration with university student information systems
